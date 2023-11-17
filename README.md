@@ -2,6 +2,7 @@
 
 #### 介绍
 基于LuatOS进行二次开发的lua脚本，用于将合宙EC618系列定位器设备改造成支持4G网络的APRS终端设备。
+https://gitee.com/ixinme/aprs4g
 
 #### 特技
 
